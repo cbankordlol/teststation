@@ -19,3 +19,4 @@ SAYING="This is ${WORD}${ENDING}"
 echo $SAYING
 
 echo "You are to write many ${WORD}s in this class."
+echo "Not much has changed with this script."
